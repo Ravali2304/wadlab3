@@ -1,0 +1,17 @@
+body{
+    background: rgb(248, 219, 250); 
+    font-family: 'Georgia';
+}
+h1{
+    font-size: 200%;
+    color :#005368;
+}
+h2{
+    color: #006a85;
+}
+p{
+    color: #6a2525
+}
+li{
+    color:#340034
+}
